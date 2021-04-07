@@ -1,5 +1,5 @@
 <?php
 
-include_once("core/index.html")
+include_once("new.html")
 
 ?>
